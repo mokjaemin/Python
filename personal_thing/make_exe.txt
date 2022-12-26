@@ -1,0 +1,7 @@
+# pyinstaller 설치
+# 터미널에 pyinstaller .\파일이름.py 입력
+# dist폴더 모두 공유해야 활용가능
+# 터미널에 pyinstaller -F.\파일이름.py 입력시 하나의 파일만 생성 역시 dist폴더 공유
+# 윈도우 모드로 실행시(터미널 필요 없는 파일 생성) pyinstaller -w .\pygame1\파일이름.py
+# 이미지 파일이 프로그램안에 존재시 복사해서 넣어놔야함 이름도 역시 동일
+# 윈도우 모드로 실행시(터미널 필요 없는 파일 생성) pyinstaller -w-F.\pygame1\파일이름.py 하나의 exe만 생성
