@@ -1,3 +1,5 @@
 # Python files for fun
 
-such as games, RPA
+- Games
+- RPA
+- Basic Grammar
